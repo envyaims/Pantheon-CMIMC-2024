@@ -1,0 +1,4 @@
+% search through all positive x
+0,0 0,0,R,_
+1,0 2,0,_,_
+2,0 _,_,_,_
